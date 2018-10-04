@@ -7,7 +7,7 @@
 * The most frequent value search
 
 **Implemented basic sorting algorithms like:**
-* Dutch national flag problem implementation
+* Dutch national flag problem implementation - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/sorting/flag.py)
 * BubbleSort
 * InsertSort
 * Quicksort
