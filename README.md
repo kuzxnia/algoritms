@@ -8,7 +8,7 @@
 
 **Implemented basic sorting algorithms like:**
 * Dutch national flag problem implementation - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/sorting/flag.py)
-* BubbleSort
+* BubbleSort - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/sorting/bubblesort.py)
 * InsertSort
 * Quicksort
 * MergeSort
