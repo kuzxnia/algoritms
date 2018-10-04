@@ -27,6 +27,6 @@
 # Brain Training
 
 **My implementations of problems from popular competitive programming websites**
-* [Project Euler](https://projecteuler.net/) and my solutions [Here]()
-* [LeetCode](https://leetcode.com/) and my solutions [Here]()
-* [CodingBat](https://codingbat.com/java) and my solutions [Here]()
+* [Project Euler](https://projecteuler.net/) and my solutions [Here](https://github.com/kuzxnia/algoritms/blob/master/brain_training/euler)
+* [LeetCode](https://leetcode.com/) and my solutions [Here](https://github.com/kuzxnia/algoritms/blob/master/brain_training/leetcode)
+* [CodingBat](https://codingbat.com/java) and my solutions [Here](https://github.com/kuzxnia/codingBat-solutions)
