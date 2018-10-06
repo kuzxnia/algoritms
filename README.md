@@ -21,7 +21,7 @@
 **Implemented well known data structures like:**
 * Stack
 * Queue
-* Linked List
+* Linked List - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/data_structures/linkedList.py)
 * Binary Tree
 
 # Brain Training
