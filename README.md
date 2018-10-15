@@ -24,6 +24,10 @@
 * Linked List - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/data_structures/linkedList.py)
 * Binary Tree
 
+# Numerical analysis
+
+**Implemented algorithms like:**
+* Lagrange Interpolation Polynomials - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/numerical_analysis/lagrange_polynomial.py)
 # Brain Training
 
 **My implementations of problems from popular competitive programming websites**
