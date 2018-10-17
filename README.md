@@ -3,7 +3,7 @@
 **Implemented basic search algorithms like:**
 * Linear search - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/search/linearsearch.py)
 * Binary search - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/search/binarysearch.py)
-* Interpolation search
+* Interpolation search - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/search/interpolationsearch.py)
 * The most frequent value search
 
 **Implemented basic sorting algorithms like:**

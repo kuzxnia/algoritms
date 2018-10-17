@@ -1,5 +1,6 @@
 # Big O complexity
 # O(log2(n))
+# works only on sorted array
 
 # recursive
 def binarySearch(arr, left, right, arg):
