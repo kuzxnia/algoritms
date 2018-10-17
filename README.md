@@ -20,7 +20,7 @@
 
 **Implemented well known data structures like:**
 * Stack
-* Queue
+* Queue - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/data_structures/queue.py)
 * Linked List - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/data_structures/linkedList.py)
 * Binary Tree
 
