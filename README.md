@@ -13,8 +13,6 @@
 * Quicksort
 * MergeSort
 * HeapSort
-* BinarySort
-* Binary Insertion sort
 
 # Data Structures
 

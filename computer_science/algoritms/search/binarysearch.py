@@ -3,25 +3,26 @@
 # works only on sorted array
 
 # recursive
-def binarySearch(arr, left, right, arg):
+def binary_search_recursive(arr, arg, left, right):
     if right >= left:
-        middle = left + (right - left) / 2
+        middle = left + (right - left) // 2
 
         if arr[middle] == arg:
             return middle
 
         elif arr[middle] > arg:
-            return binarySearch(arr, left, middle - 1, arg)
+            return binary_search_recursive(arr, arg, left, middle - 1)
 
         else:
-            return binarySearch(arr, middle + 1, right, arg)
+            return binary_search_recursive(arr, arg, middle + 1, right)
     else:
         return -1
 
+
 # iterative
-def binarySearch(arr, left, right, arg):
+def binary_search(arr, arg, left, right):
     while left <= right:
-        mid = left + (right - left) / 2
+        mid = left + (right - left) // 2
 
         if arr[mid] == arg:
             return mid
