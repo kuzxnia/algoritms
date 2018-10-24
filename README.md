@@ -4,7 +4,7 @@
 * Linear search - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/search/linearsearch.py)
 * Binary search - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/search/binarysearch.py)
 * Interpolation search - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/search/interpolationsearch.py)
-* The most frequent value search
+* The most frequent value search - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/search/mostcommon.py)
 
 **Implemented basic sorting algorithms like:**
 * Dutch national flag problem implementation - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/sorting/flag.py)
