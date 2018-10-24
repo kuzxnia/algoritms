@@ -11,7 +11,7 @@
 * BubbleSort - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/sorting/bubblesort.py)
 * InsertSort - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/sorting/insertsort.py)
 * Quicksort
-* MergeSort
+* MergeSort - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/sorting/mergesort.py)
 * HeapSort
 
 # Data Structures
