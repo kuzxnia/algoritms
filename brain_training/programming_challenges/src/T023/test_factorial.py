@@ -1,6 +1,6 @@
 import pytest
 
-from .Factorial import factorial
+from .factorial import factorial
 
 
 @pytest.mark.parametrize("input,expected", [
