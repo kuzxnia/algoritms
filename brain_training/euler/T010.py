@@ -1,7 +1,3 @@
-# The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
-# Find the sum of all the primes below two million.
-
-
 def summation_of_primes_below_two_million():
     def sieve(scope):
         prime = [True] * scope
