@@ -16,7 +16,7 @@
 - [ ] 013 - Calculate and print calendars for arbitrary months and years
 - [ ] 014 - Tic-Tac-Toe
 - [ ] 015 - Voronoi Diagram from a set of random points
-- [ ] 016 - Benford's law
+- [x] 016 - ~~Benford's law~~
 - [ ] 017 - Text <-> Morse code converter
 - [ ] 018 - Anagram Checker
 - [ ] 019 - Dynamic multidimensional arrays
