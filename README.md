@@ -10,7 +10,7 @@
 * Dutch national flag problem implementation - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/sorting/flag.py)
 * BubbleSort - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/sorting/bubblesort.py)
 * InsertSort - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/sorting/insertsort.py)
-* Quicksort
+* Quicksort - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/sorting/quicksort.py)
 * MergeSort - code [here](https://github.com/kuzxnia/algoritms/blob/master/computer_science/algoritms/sorting/mergesort.py)
 * HeapSort
 
